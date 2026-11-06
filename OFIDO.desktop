@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OFIDO
+Comment=FIDO2/WebAuthn inspector & verifier (signatures, attestation, MDS)
+Exec=OFIDO
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OPass;
